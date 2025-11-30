@@ -6,6 +6,15 @@ CONTACT : 9025173248 & shivahariharannagaraj@gmail.com
 🚀 Employee Attendance Management System
 A full-stack MERN application designed for companies to efficiently track daily employee attendance with separate dashboards for Employees and Managers.
 
+**SCREENSHOTS**:
+
+![alt text](Screenshots/employee/Login-Page.png)
+![alt text](Screenshots/employee/Employee-dashboard.png)
+![alt text](Screenshots/manager/Manager-dashboard.png)
+![alt text](Screenshots/manager/Calendar-view.png)
+![alt text](Screenshots/manager/Report-csv.png)
+![alt text](Screenshots/manager/Attendance-summary.png)
+
 
 # Default Login Credentials (After Seeding)
 
@@ -103,11 +112,3 @@ Start the frontend:
 Frontend runs at: http://localhost:3000
 
 
-**SCREENSHOTS**:
-
-![alt text](Screenshots/employee/Login-Page.png)
-![alt text](Screenshots/employee/Employee-dashboard.png)
-![alt text](Screenshots/manager/Manager-dashboard.png)
-![alt text](Screenshots/manager/Calendar-view.png)
-![alt text](Screenshots/manager/Report-csv.png)
-![alt text](Screenshots/manager/Attendance-summary.png)
